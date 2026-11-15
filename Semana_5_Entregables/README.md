@@ -129,9 +129,9 @@ Los resultados deben interpretarse como evidencia descriptiva y no como relacion
 
 ## 10. Autor
 
-**Rodrigo González Panes**  
-Estudiante de Ingeniería en Informática  
+**Rodrigo I.González Panes**  
+Estudiante de Ingeniería de ejecución en Informática  
 Universidad Católica de la Santísima Concepción (UCSC).
 
-Proyecto académico desarrollado para la asignatura Ciencia de Datos.
+Proyecto académico - Ciencia de Datos.
 
